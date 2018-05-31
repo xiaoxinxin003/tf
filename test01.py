@@ -5,6 +5,7 @@ Created on Sat Apr 14 12:54:43 2018
 @author: focus
 """
 
+
 import tensorflow as tf
 
 a = tf.constant(2)
